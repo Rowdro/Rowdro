@@ -20,11 +20,9 @@ Currently improving my skills in **Java, JavaScript, and Python** while explorin
 
 ### 🔹 Development & Tech Skills
 | HTML | CSS | JavaScript | Python |
-|---|---|---|---|---|
 
 ### 🔹 Professional Expertise
 | Product Listing | SEO | Ad Management | UI/UX | Data Entry |
-|---|---|---|---|---|
 
 🔸 Facebook Ads & Pinterest Ads  
 🔸 Web content formatting & styling  
