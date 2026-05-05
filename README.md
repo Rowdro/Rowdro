@@ -19,7 +19,7 @@ Currently improving my skills in **Java, JavaScript, and Python** while explorin
 ## 🚀 What I Work With
 
 ### 🔹 Development & Tech Skills
-| HTML | CSS | Java | JavaScript | Python |
+| HTML | CSS | JavaScript | Python |
 |---|---|---|---|---|
 
 ### 🔹 Professional Expertise
@@ -38,15 +38,14 @@ Currently improving my skills in **Java, JavaScript, and Python** while explorin
 - Managed and optimized product listings across e-commerce platforms  
 - Used **HTML & CSS** to edit, style, and customize front-end layouts  
 - Created SEO-friendly descriptions and data-driven product metadata  
-- Worked on UI/UX screens including tourism guide & juice UI design  
-- Supported marketing through keyword research, meta content & ad setups  
+- Worked on UI/UX screens including tourism guide & juice UI design   
 
 ---
 
 ## 🔥 Current Focus
 
 - 📌 Building a To-Do Task Manager Application  
-- 📚 Advancing skills in Java, JavaScript & Python  
+- 📚 Advancing skills in JavaScript & Python  
 - 🎨 Improving UI/UX workflow & prototyping speed  
 - 🚀 Growing in tech through real projects + experimentation  
 
