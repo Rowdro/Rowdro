@@ -1,17 +1,90 @@
-# 💫 About Me:
-I’m a detail-oriented, tech-driven developer with hands-on experience in web content customization, product listing, SEO optimization, and UI/UX design. I leverage front-end technologies and digital marketing tools to create seamless user experiences and improve product visibility across e-commerce platforms.<br><br>I enjoy transforming ideas into practical digital solutions—ranging from interactive product previews to efficient tools like task management applications. Currently, I’m expanding my skill set in Java, JavaScript, and Python while exploring advanced UI design and automation techniques.
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Rowdro%20Mrong&fontSize=60&animation=fadeIn" width="100%"/>
+</h1>
 
+<p align="center">
+  <kbd>Software Developer</kbd> • <kbd>Digital Strategist</kbd> • <kbd>E-Commerce Specialist</kbd>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowdro-mrong-99b710370/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RowdroMrong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrongrowdro23@gmail.com) 
+<p align="center">
+  <strong>Transforming ideas into practical digital solutions with a focus on seamless user experiences.</strong>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rowdro&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rowdro-mrong-99b710370/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/RowdroMrong"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:mrongrowdro23@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-![](https://streak-stats.demolab.com/?user=Rowdro&theme=holi&hide_border=false)<br/>
+---
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rowdro&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ⚡ Quick Overview
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> **"The best way to predict the future is to create it."** — *Peter Drucker*
+
+* 🚀 **E-Commerce:** Expert in **Shopify** store management, product listing, and scaling digital storefronts.
+* 📈 **Marketing:** Specialist in **SEO**, **Facebook Ads**, and **Pinterest Marketing** to drive organic and paid growth.
+* 🛠️ **Engineering:** Building functional, detail-oriented solutions with **Java**, **JavaScript**, and **Python**.
+* 🎨 **UI/UX:** Crafting intuitive user journeys through detailed design and clean **HTML/CSS**.
+
+---
+
+### 🧰 Tech & Marketing Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Programming</strong></td>
+    <td align="center" width="25%"><strong>Design & Web</strong></td>
+    <td align="center" width="25%"><strong>Marketing & Sales</strong></td>
+    <td align="center" width="25%"><strong>Data & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,py,cpp,git" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,figma,canva" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=shopify,pin,seo,fb" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,vercel" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Specialized Services
+
+*   **Growth Marketing:** Data-driven campaigns using **Facebook Ads Manager**, **Pinterest Marketing**, and **SEO**.
+*   **Store Operations:** Professional **Shopify** setup, expert **Product Listing**, and **Keyword Research**.
+*   **Digital Solutions:** Developing efficient tools ranging from task managers to interactive web components.
+*   **Data Management:** Precise **Data Entry** and database architecture using **MySQL** and **Firebase**.
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Rowdro&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rowdro&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowdro&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
+
+<p align="center">
+  <font size="2">Created with ☕ and 💻 by Rowdro</font>
+</p>
